@@ -14,9 +14,9 @@ function ResultList(props) {
             <th>Age</th>
           </tr>
           <tr>
-            <td>Jill</td >
-            <td>Smith</td>
-            <td>50</td>
+            <td>John/td >
+            <td>Doe</td>
+            <td>40</td>
           </tr>
         </table>
 

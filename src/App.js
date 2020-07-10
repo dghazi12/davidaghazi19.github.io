@@ -1,10 +1,8 @@
 import React from "react";
-import SearchResultContainer from "./components/SearchResult";
+import SearchResultContainer from "./components/SearchResults";
 
-import logo from './logo.svg';
 import './App.css';
 import { Header } from './style/layout.components';
-import { Test } from './style/layout.components';
 
 function App() {
   return (
