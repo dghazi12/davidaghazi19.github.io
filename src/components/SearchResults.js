@@ -101,6 +101,7 @@ class SearchResultContainer extends Component {
         <div className="row">
 
           <table className="table">
+            <tbody>
             <tr>
               <th scope="col">Photo</th>
               <th>First Name</th>
@@ -120,7 +121,7 @@ class SearchResultContainer extends Component {
                 key={item.key}
               />
             )}
-
+      </tbody>
           </table>
         </div>
 
