@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <Header>
-      - Employee Directory -
+      Employee Directory
       </Header>
         <SearchResultContainer />
     </div>
