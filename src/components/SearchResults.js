@@ -1,4 +1,3 @@
-//web: bin/boot
 import React, { Component } from "react";
 import SearchForm from "./Search";
 import EmployeeCard from "./Employee";
